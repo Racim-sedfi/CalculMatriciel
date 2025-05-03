@@ -1,0 +1,45 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+--release
+17
+-sourcepath
+'/home/racim/L3/PS/CalculMatriciel/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/racim/L3/PS/CalculMatriciel/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'CalculMatriciel 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'CalculMatriciel 1.0-SNAPSHOT API'
+algLin
+/home/racim/L3/PS/CalculMatriciel/src/main/java = 1736859895555
+/home/racim/L3/PS/CalculMatriciel/target/site/apidocs/search.js = 1737066204430
+/home/racim/L3/PS/CalculMatriciel/target/site/apidocs/help-doc.html = 1737066204424
+/home/racim/L3/PS/CalculMatriciel/target/site/apidocs/tag-search-index.js = 1737066204396
+/home/racim/L3/PS/CalculMatriciel/target/site/apidocs/copy.svg = 1737066204428
+/home/racim/L3/PS/CalculMatriciel/target/site/apidocs/stylesheet.css = 1737066204426
+/home/racim/L3/PS/CalculMatriciel/target/site/apidocs/allclasses-index.html = 1737066204391
+/home/racim/L3/PS/CalculMatriciel/target/site/apidocs/script.js = 1737066204427
+/home/racim/L3/PS/CalculMatriciel/target/site/apidocs/package-search-index.js = 1737066204395
+/home/racim/L3/PS/CalculMatriciel/target/site/apidocs/link.svg = 1737066204428
+/home/racim/L3/PS/CalculMatriciel/target/site/apidocs/allpackages-index.html = 1737066204394
+/home/racim/L3/PS/CalculMatriciel/target/site/apidocs/element-list = 1737066204331
+/home/racim/L3/PS/CalculMatriciel/target/site/apidocs/module-search-index.js = 1737066204395
+/home/racim/L3/PS/CalculMatriciel/target/site/apidocs/type-search-index.js = 1737066204396
+/home/racim/L3/PS/CalculMatriciel/target/site/apidocs/index-all.html = 1737066204416
+/home/racim/L3/PS/CalculMatriciel/target/site/apidocs/member-search-index.js = 1737066204396
+/home/racim/L3/PS/CalculMatriciel/target/site/apidocs/overview-tree.html = 1737066204375
+/home/racim/L3/PS/CalculMatriciel/target/site/apidocs/search-page.js = 1737066204450
+/home/racim/L3/PS/CalculMatriciel/target/site/apidocs/index.html = 1737066204420
+/home/racim/L3/PS/CalculMatriciel/target/site/apidocs/search.html = 1737066204418

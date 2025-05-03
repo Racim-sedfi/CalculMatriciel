@@ -1,0 +1,34 @@
+Invoking Maven for the goals: [org.codehaus.mojo:clirr-maven-plugin:2.2.2:check] with properties={comparisonVersion=(,1.0-SNAPSHOT), failOnError=false, textOutputFile=/home/racim/L3/PS/CalculMatriciel/target/clirr819503228.txt}
+
+M2_HOME=/usr/share/maven
+MAVEN_OPTS=null
+JAVA_HOME=/usr/lib/jvm/java-21-openjdk-amd64
+JAVA_OPTS=null
+
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ---------------< etu.univLeHavre.sedfi:CalculMatriciel >----------------
+[INFO] Building CalculMatriciel 1.0-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] >>> clirr-maven-plugin:2.2.2:check (default-cli) > compile @ CalculMatriciel >>>
+[INFO] 
+[INFO] --- maven-resources-plugin:3.3.1:resources (default-resources) @ CalculMatriciel ---
+[INFO] Copying 4 resources from src/main/resources to target/classes
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.13.0:compile (default-compile) @ CalculMatriciel ---
+[INFO] Nothing to compile - all classes are up to date.
+[INFO] 
+[INFO] <<< clirr-maven-plugin:2.2.2:check (default-cli) < compile @ CalculMatriciel <<<
+[INFO] 
+[INFO] 
+[INFO] --- clirr-maven-plugin:2.2.2:check (default-cli) @ CalculMatriciel ---
+[INFO] artifact etu.univLeHavre.sedfi:CalculMatriciel: checking for updates from central
+[INFO] Unable to find a previous version of the project in the repository
+[INFO] Not generating Clirr report as there is no previous version of the library to compare against
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  7.801 s
+[INFO] Finished at: 2025-02-09T23:33:49+01:00
+[INFO] ------------------------------------------------------------------------
