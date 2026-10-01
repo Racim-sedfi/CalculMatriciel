@@ -1,0 +1,27 @@
+# Compilation / Maven
+target/
+*.class
+*.jar
+
+# Javadoc générée (à régénérer avec : mvn javadoc:javadoc)
+doc/
+
+# Eclipse
+.metadata/
+.settings/
+.classpath
+.project
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Fichiers de verrou LibreOffice
+.~lock.*#
+
+# Système
+.DS_Store
+Thumbs.db
